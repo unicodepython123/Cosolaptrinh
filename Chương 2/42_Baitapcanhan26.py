@@ -1,0 +1,6 @@
+a=input('Ho ten: ')
+b=float(input('So ngay cong: '))
+c=float(input('Don gia ngay gia con: '))
+d=float(input('He so phu cap: '))
+e=input('Tam ung: ')
+print('Nhan vien',a,',Co tien luong=',round(c*b*d,1),',Tam ung=',e,'va Thuc linh=',c*b*d-float(e))
