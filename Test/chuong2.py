@@ -1,2 +1,2 @@
-
-print('\n')
+print('a')
+print('')
